@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang and Neo4J**
 
-- 📝 I regularly write articles on [blog.k3k.dev](blog.k3k.dev)
+- 📝 I regularly write articles on [blog.k3k.dev](https://blog.k3k.dev)
 
 - 💬 Ask me about **all things Java and microservices**
 
