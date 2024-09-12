@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamer2810&label=Profile%20views&color=0e75b6&style=flat" alt="gamer2810" /> </p>
 
-- 🌱 I’m currently learning **Golang and Neo4J**
+- 🌱 I’m currently pursuing my Master's degree at WIU
 
 - 📝 I regularly write articles on [blog.k3k.dev](https://blog.k3k.dev)
 
