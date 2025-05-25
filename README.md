@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamer2810&label=Profile%20views&color=0e75b6&style=flat" alt="gamer2810" /> </p>
 
-- 🌱 I’m currently pursuing my Master's degree in Computer Science at WIU
-
 - 📝 Find out more about me on [my personal blog](https://ark.k3k.dev/about/)
 
 - 🛠️ I have around 3 years of professional backend development experience with Java, Spring Boot, Kubernetes and GCP
