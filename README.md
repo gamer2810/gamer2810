@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Minh Kha Tran</h1>
-<h3 align="center">A Vietnamese Computer Science graduate student based in IL, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gamer2810&label=Profile%20views&color=0e75b6&style=flat" alt="gamer2810" /> </p>
 
